@@ -1,0 +1,9 @@
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\bin\Debug\Dbrowser.exe.config
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\bin\Debug\Dbrowser.exe
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\bin\Debug\Dbrowser.pdb
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.csprojResolveAssemblyReference.cache
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.Properties.Resources.resources
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.csproj.GenerateResource.Cache
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.exe
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.pdb
+D:\Projects portfolio\VisualStudioProjects\Dbrowser\Dbrowser\obj\Debug\Dbrowser.form1.resources
